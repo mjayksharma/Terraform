@@ -1,0 +1,5 @@
+subscription_id = "ff4f2c33-c7b6-4e8e-b9bd-a8739f36cd86"
+client_id       = "f60cc9ce-cdc5-459e-94cf-24cae5b3361b"
+client_secret   = "109b417d-37f4-4428-9243-b193d667dd20"
+tenant_id       = "34ad4c26-7f64-4f18-a7ee-a48541e19313"
+prefix          = "mjaywebapp"
